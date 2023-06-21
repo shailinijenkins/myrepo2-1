@@ -18,11 +18,5 @@ pipeline {
       }
     }
 
-    stage('stage3') {
-      steps {
-        sleep 5
-      }
-    }
-
   }
 }
